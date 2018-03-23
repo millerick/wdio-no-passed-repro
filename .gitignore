@@ -1,0 +1,6 @@
+*.tsv
+*.tar.gz
+artifacts/*
+dist/*
+node_modules/*
+.DS_STORE
